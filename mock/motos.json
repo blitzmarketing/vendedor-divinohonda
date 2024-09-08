@@ -1,0 +1,40 @@
+{
+    "motos": [
+        {
+            "name": "CG 160 Start",
+            "valor": 20000,
+            "qtdParcelas": 18,
+            "image": "cb350twister.jpg"
+        },
+        {
+            "name": "CG 150 Start",
+            "valor": 20000,
+            "qtdParcelas": 18,
+            "image": "cb1000r.jpg"
+        },
+        {
+            "name": "CG 170 Start",
+            "valor": 17000,
+            "qtdParcelas": 18,
+            "image": "cb350twister.jpg"
+        },
+        {
+            "name": "CG 160 Start",
+            "valor": 20000,
+            "qtdParcelas": 18,
+            "image": "cb350twister.jpg"
+        },
+        {
+            "name": "CG 150 Start",
+            "valor": 20000,
+            "qtdParcelas": 18,
+            "image": "cb350twister.jpg"
+        },
+        {
+            "name": "CG 170 Start",
+            "valor": 17000,
+            "qtdParcelas": 18,
+            "image": "cb350twister.jpg"
+        }
+    ]
+}
