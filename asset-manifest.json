@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.ab415b7d.css",
-    "main.js": "./static/js/main.d550aece.js",
+    "main.css": "./static/css/main.0981b8ac.css",
+    "main.js": "./static/js/main.ccde0b20.js",
+    "static/media/capa-south-site.jpg": "./static/media/capa-south-site.85d46927f5a7f17e3969.jpg",
     "static/media/arrow-white.svg": "./static/media/arrow-white.a8c16ff5fe8f4139bf3e.svg",
     "index.html": "./index.html",
-    "main.ab415b7d.css.map": "./static/css/main.ab415b7d.css.map",
-    "main.d550aece.js.map": "./static/js/main.d550aece.js.map"
+    "main.0981b8ac.css.map": "./static/css/main.0981b8ac.css.map",
+    "main.ccde0b20.js.map": "./static/js/main.ccde0b20.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab415b7d.css",
-    "static/js/main.d550aece.js"
+    "static/css/main.0981b8ac.css",
+    "static/js/main.ccde0b20.js"
   ]
 }
